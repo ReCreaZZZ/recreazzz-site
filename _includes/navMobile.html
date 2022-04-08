@@ -10,30 +10,38 @@
     <div class="px-40 pt-60 pb-60 text-center inner">
         <div>
             <a href="#" class="f-heading f-22 link color-main mb-20">
-                Home
+                {{page.menuHome}}
             </a>
         </div>
         <div>
             <a href="collaborate.html" class="f-heading f-22 link color-main mb-20">
-                Collaborate
+                {{page.menuCollaborate}}
             </a>
         </div>
         <div>
             <a href="agenda.html" class="f-heading f-22 link color-main mb-20">
-                Agenda
+                {{page.menuAgenda}}
             </a>
         </div>
         <div>
             <a href="#" class="f-heading f-22 link color-main mb-20">
-                Blog
+                {{page.menuBlog}}
             </a>
         </div>
         <div class="mt-40">
-            <a href="#" class="f-18 link color-main op-7 text-uppercase sp-20 mb-20">
+            {% if page.layout == "index" %}
+            <a href="/" class="f-18 link color-main op-7 text-uppercase sp-20 mb-20">
+                DE
+            </a> | <a href="/en" class="f-18 link color-main op-7 text-uppercase sp-20 mb-20">
                 EN
-            </a> | <a href="#" class="f-18 link color-main op-7 text-uppercase sp-20 mb-20">
-                GE
             </a>
+            {% else %}
+            <a href="/{{page.layout}}" class="f-18 link color-main op-7 text-uppercase sp-20 mb-20">
+                DE
+            </a> | <a href="/en/{{page.layout}}" class="f-18 link color-main op-7 text-uppercase sp-20 mb-20">
+                EN
+            </a>
+            {% endif %}
         </div>
         <div class="socials mt-60">
             <a href="#" target="_blank" class="link color-main f-18 mx-10">

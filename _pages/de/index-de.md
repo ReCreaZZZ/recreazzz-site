@@ -30,7 +30,7 @@ ourSpaceSubPhrase1: "Eine Nähwerkstatt mit industriellem Overlock und großem M
 ourSpaceSubTitle2: "Elektro"
 ourSpaceSubPhrase2: "Arbeitsplätze in der offenen Werkstatt für Elektronik Arbeiten und Reparaturen."
 ourSpaceSubTitle3: "Hardwerk"
-ourSpaceSubPhrase3: "Es stehen diverse Maschinen für Holz und Metallbearbeitung zur Verfügung"
+ourSpaceSubPhrase3: "Es stehen diverse Maschinen für Holz und Metallbearbeitung zur Verfügung."
 
 carrouselTitle: "Machen wir es zusammen"
 carrouselButton: "Agenda"
