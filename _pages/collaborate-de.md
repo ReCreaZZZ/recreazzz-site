@@ -1,6 +1,6 @@
 ---
 layout: collaborate
-permalink: '/collaborate/'
+permalink: '/collaborate'
 
 menuHome: Heim
 menuCollaborate: Zusammenarbeiten
