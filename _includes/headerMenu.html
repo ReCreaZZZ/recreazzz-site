@@ -7,8 +7,24 @@
                         data-aos-delay="750">
                 </a>
             </div>
+            {% if page.url contains '-en' %}
             <div class="col-lg-5 d-flex align-items-center" data-aos="fade-down" data-aos-delay="1000">
-                <a href="index.html" class="link color-white f-18 medium mr-30">
+                <a href="index-en.htm}" class="link color-white f-18 medium mr-30">
+                    {{page.menuHome}}
+                </a>
+                <a href="collaborate-en.html" class="link color-white f-18 medium mr-30">
+                    {{page.menuCollaborate}}
+                </a>
+                <a href="agenda-en.html" class="link color-white f-18 medium mr-30">
+                    {{page.menuAgenda}}
+                </a>
+                <a href="#" class="link color-white f-18 medium">
+                    {{page.menuBlog}}
+                </a>
+            </div>
+            {% else %}
+            <div class="col-lg-5 d-flex align-items-center" data-aos="fade-down" data-aos-delay="1000">
+                <a href="index.htm}" class="link color-white f-18 medium mr-30">
                     {{page.menuHome}}
                 </a>
                 <a href="collaborate.html" class="link color-white f-18 medium mr-30">
@@ -21,6 +37,7 @@
                     {{page.menuBlog}}
                 </a>
             </div>
+            {% endif %}
             <div class="col-lg-2 d-flex justify-content-end align-items-center" data-aos="fade-down"
                 data-aos-delay="1000">
                 <a href="{{site.baseurl}}/{{page.layout}}" class="btn sm color-white f-18 medium noradius border">
