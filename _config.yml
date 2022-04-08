@@ -3,7 +3,7 @@ title: RECREAZZZ.REPAIR
 subtitle: the first place for a second chance
 
 # URL
-url: https://linalopes.github.io/recreazzz-site/
+url: https://
 baseurl: '/'
 permalink: :title/
 include: ['_pages']
