@@ -1,6 +1,6 @@
 ---
 layout: agenda
-permalink: '/en/agenda/'
+permalink: '/en/agenda'
 lang: en
 
 menuHome: Home
