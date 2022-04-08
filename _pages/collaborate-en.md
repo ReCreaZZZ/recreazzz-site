@@ -1,7 +1,6 @@
 ---
 layout: collaborate
-permalink: '/en/collaborate'
-lang: en
+permalink: /en/collaborate/
 
 menuHome: Home
 menuCollaborate: Collaborate
