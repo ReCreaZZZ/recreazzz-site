@@ -11,7 +11,7 @@ menuBlog: Bloggen
 headerPhrase: "Ein Raum, eine Gemeinschaft, eine Gelegenheit, gemeinsam neu zu erschaffen, zu reparieren!"
 
 ourManifestTitle: "Unser Manifest"
-ourManifestPhrase1: "Macherinnen holen kaputtes wieder in den Kreislauf zurück. So verringern wir den ökologischen Fussabdruck der Dinge. Wertschätzung & Förderung des Bewusstseins für einen suffizienteren Lebensstil liegt uns am Herzen."
+ourManifestPhrase1: "Macher:innen holen kaputtes wieder in den Kreislauf zurück. So verringern wir den ökologischen Fussabdruck der Dinge. Wertschätzung & Förderung des Bewusstseins für einen suffizienteren Lebensstil liegt uns am Herzen."
 ourManifestPhrase2: "Der Verein ReCreaZZZ betreibt eine offene Werkstatt für Reparaturen und Upcycling. Hier kannst Du mit Unterstützung von Fachpersonen deine Geräte und Kleider reparieren oder wiederverwerten."
 
 ctaSponsor: "Sponsor geworden"
