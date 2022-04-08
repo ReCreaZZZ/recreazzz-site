@@ -1,7 +1,6 @@
 ---
 layout: agenda
 permalink: '/agenda-en'
-lang: en
 
 menuHome: Home
 menuCollaborate: Collaborate

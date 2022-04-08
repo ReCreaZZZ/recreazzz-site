@@ -1,7 +1,6 @@
 ---
 layout: agenda
 permalink: '/agenda'
-lang: de
 
 menuHome: Heim
 menuCollaborate: Zusammenarbeiten
