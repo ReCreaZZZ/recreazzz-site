@@ -29,19 +29,11 @@
             </a>
         </div>
         <div class="mt-40">
-            {% if page.layout == "index" %}
-            <a href="{{site.baseurl}}/" class="f-18 link color-main op-7 text-uppercase sp-20 mb-20">
-                DE
-            </a> | <a href="{{site.baseurl}}/en" class="f-18 link color-main op-7 text-uppercase sp-20 mb-20">
-                EN
-            </a>
-            {% else %}
             <a href="{{site.baseurl}}/{{site.layout}}" class="f-18 link color-main op-7 text-uppercase sp-20 mb-20">
                 DE
-            </a> | <a href="{{site.baseurl}}/en/{{site.layout}}" class="f-18 link color-main op-7 text-uppercase sp-20 mb-20">
+            </a> | <a href="{{site.baseurl}}/{{site.layout}}-en" class="f-18 link color-main op-7 text-uppercase sp-20 mb-20">
                 EN
             </a>
-            {% endif %}
         </div>
         <div class="socials mt-60">
             <a href="#" target="_blank" class="link color-main f-18 mx-10">
