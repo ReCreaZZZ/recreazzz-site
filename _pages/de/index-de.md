@@ -1,6 +1,6 @@
 ---
 layout: index
-permalink: '/de'
+permalink: '/'
 lang: de
 
 menuHome: Heim
