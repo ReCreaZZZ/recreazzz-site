@@ -1,7 +1,7 @@
 /* Change bootstrap's .container default width */
 @font-face {
   font-family: Movement;
-  src: url(/fonts/Movement-DirectBlack.otf);
+  src: url(../fonts/Movement-DirectBlack.otf);
 }
 
 @media (min-width: 768px) {
