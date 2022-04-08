@@ -1,6 +1,6 @@
 ---
 layout: index
-permalink: '/en/index'
+permalink: '/en/'
 lang: en
 
 menuHome: Home
