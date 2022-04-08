@@ -1,0 +1,23 @@
+# Site
+title: RECREAZZZ.REPAIR
+subtitle: the first place for a second chance
+
+# URL
+url: http://
+baseurl: ''
+permalink: :title/
+include: ['_pages']
+
+# Build settings
+markdown: kramdown
+port: 4442
+future: true
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
