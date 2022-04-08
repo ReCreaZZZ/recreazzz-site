@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	{% include head.html %}
+</head>
+
+<body>
+	<!-- Navigation Mobile -->
+	<a class="open_menu color-main bg-light radius_full">
+		<i class="fas fa-bars lh-40">
+		</i>
+	</a>
+	<div class="navigation_mobile bg-light type2">
+		<a class="close_menu color-main">
+			<i class="fas fa-times">
+			</i>
+		</a>
+		<div class="px-40 pt-60 pb-60 text-center inner">
+			<div>
+				<a href="index.html" class="f-heading f-22 link color-main mb-20">
+					Home
+				</a>
+			</div>
+			<div>
+				<a href="collaborate.html" class="f-heading f-22 link color-main mb-20">
+					Collaborate
+				</a>
+			</div>
+			<div>
+				<a href="agenda.html" class="f-heading f-22 link color-main mb-20">
+					Agenda
+				</a>
+			</div>
+			<div>
+				<a href="#" class="f-heading f-22 link color-main mb-20">
+					Blog
+				</a>
+			</div>
+			<div class="mt-40">
+				<a href="#" class="f-18 link color-main op-7 text-uppercase sp-20 mb-20">
+					EN
+				</a> | <a href="#" class="f-18 link color-main op-7 text-uppercase sp-20 mb-20">
+					GE
+				</a>
+			</div>
+			<div class="socials mt-60">
+				<a href="#" target="_blank" class="link color-main f-18 mx-10">
+					<i class="fab fa-facebook">
+					</i>
+				</a>
+				</a>
+				<a href="https://www.instagram.com/recreazzz.repair/" target="_blank"
+					class="link color-main f-18 mx-10">
+					<i class="fab fa-instagram">
+					</i>
+				</a>
+				</i>
+				</a>
+			</div>
+		</div>
+	</div>
+	<!-- Header -->
+	<header class="pt-175 pb-110 bg-dark color-filter-dark-3 header_6" data-bg-src="../i/agenda.jpg"
+		data-bg-src-2x="false">
+		{% include headerMenu.html %}
+		<div class="container px-xl-0 text-center mb-200">
+			<div class="mb-3 d-xl-none">
+				<a href="#" class="link img_link">
+					<img src="../i/textnegative.png" alt="Logo" class="img-fluid" data-aos="fade-down" data-aos-delay="0">
+				</a>
+			</div>
+			<div class="row justify-content-center">
+				<div class="col-lg-9 mt-90" data-aos="fade-down" data-aos-delay="0">
+					<h1 class="color-white">
+						{{page.headerPhrase}}
+					</h1>
+				</div>
+				<div class="col-md-6 color-white f-18 medium text-adaptive" data-aos="fade-down" data-aos-delay="500">
+				</div>
+			</div>
+		</div>
+	</header>
+	<!-- Airtable -->
+	<section>
+		<iframe class="airtable-embed" src="https://airtable.com/embed/shrm6PWu7WGDEsQUs?backgroundColor=blue&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+	</section>
+	<!-- Open Days -->
+    <section class="pt-40 pb-40 bg-action-2">
+        <div class="container px-xl-0">
+            <div class="row justify-content-center text-center">
+                <div class="col-xl-10 col-lg-11">
+                    <div class="noradius pt-60 pb-55 text-center inner">
+                        <div class="row justify-content-center">
+                            <div class="col-xl-9 col-lg-10 col-11">
+                                <h2 class="mb-15 small color-dark" data-aos="fade-down" data-aos-delay="0">
+                                    {{page.openDaysTitle}}
+                                </h2>
+                                <div class="f-18 medium color-main text-adaptive" data-aos="fade-down"
+                                    data-aos-delay="250">
+                                    {{page.day1}}
+								<br>
+                                	{{page.day2}}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+	<!-- Call to Action email -->
+	<section class="pt-100 pb-80 bg-light text-center contact_10">
+		<div class="container px-xl-0">
+			<img src="../i/logofull.png" alt="" class="logo radius30 img-fluid mw-300" data-aos="fade-down"
+				data-aos-delay="0">
+			<h2 class="mt-75 mb-140" data-aos="fade-down" data-aos-delay="250">
+				<span>
+					{{page.callEmail}}
+				</span>
+				<div>
+					<a href="mailto:info@recreazzz.repair" class="link mt-10 action-1">
+						info@recreazzz.repair
+					</a>
+				</div>
+			</h2>
+		</div>
+	</section>
+	<!-- Footer -->
+	<footer class="pt-75 pb-65 text-center footer_1 bg-dark">
+		{% include footer.html %}
+	</footer>
+
+
+	<!-- Bootstrap 4.5.2 JS -->
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+	<!-- Fancybox 3 jQuery plugin JS (Open images and video in popup) -->
+	<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+	<script type="text/javascript"
+		src="https://maps.googleapis.com/maps/api/js?v=3&key=AIzaSyDP6Ex5S03nvKZJZSvGXsEAi3X_tFkua4U"></script>
+	<!-- Slick 1.8.1 jQuery plugin JS (Sliders) -->
+	<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.min.js"></script>
+	<!-- AOS 2.3.4 jQuery plugin JS (Animations) -->
+	<script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+	<!-- Custom js for all blocks  -->
+	<script src="../js/script.js"></script>
+</body>
+
+</html>
