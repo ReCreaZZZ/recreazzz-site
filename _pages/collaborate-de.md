@@ -1,6 +1,6 @@
 ---
 layout: collaborate
-permalink: 'collaborate/'
+permalink: "/collaborate"
 lang: de
 
 menuHome: Heim
