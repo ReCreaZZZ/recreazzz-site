@@ -1,6 +1,6 @@
 ---
 layout: index
-permalink: '/en'
+permalink: '/index-en'
 
 menuHome: Home
 menuCollaborate: Collaborate
