@@ -30,15 +30,15 @@
         </div>
         <div class="mt-40">
             {% if page.layout == "index" %}
-            <a href="/" class="f-18 link color-main op-7 text-uppercase sp-20 mb-20">
+            <a href="{{site.baseurl}}/" class="f-18 link color-main op-7 text-uppercase sp-20 mb-20">
                 DE
-            </a> | <a href="/en" class="f-18 link color-main op-7 text-uppercase sp-20 mb-20">
+            </a> | <a href="{{site.baseurl}}/en" class="f-18 link color-main op-7 text-uppercase sp-20 mb-20">
                 EN
             </a>
             {% else %}
-            <a href="/{{page.layout}}" class="f-18 link color-main op-7 text-uppercase sp-20 mb-20">
+            <a href="{{site.baseurl}}/{{page.layout}}" class="f-18 link color-main op-7 text-uppercase sp-20 mb-20">
                 DE
-            </a> | <a href="/en/{{page.layout}}" class="f-18 link color-main op-7 text-uppercase sp-20 mb-20">
+            </a> | <a href="{{site.baseurl}}/en/{{page.layout}}" class="f-18 link color-main op-7 text-uppercase sp-20 mb-20">
                 EN
             </a>
             {% endif %}
