@@ -2,10 +2,10 @@
 layout: agenda
 permalink: '/agenda'
 
-menuHome: Heim
+menuHome: Home
 menuCollaborate: Zusammenarbeiten
 menuAgenda: Agenda
-menuBlog: Bloggen
+menuBlog: Blog
 
 headerPhrase: "Zusammen können wir die Welt verändern"
 
