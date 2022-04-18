@@ -7,7 +7,7 @@ menuCollaborate: Zusammenarbeiten
 menuAgenda: Agenda
 menuBlog: Blog
 
-headerPhrase: "Werden Sie Sponsor Sei ein Mitglied Sei mutig"
+headerPhrase: "Werden Sie Sponsor * Sei ein Mitglied * Komm einfach mal vorbei"
 
 ourSpaceTitle: "Unser Raum"
 ourSpaceSubTitle1: "Textil"
