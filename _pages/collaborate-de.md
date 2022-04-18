@@ -2,10 +2,10 @@
 layout: collaborate
 permalink: '/collaborate'
 
-menuHome: Heim
+menuHome: Home
 menuCollaborate: Zusammenarbeiten
 menuAgenda: Agenda
-menuBlog: Bloggen
+menuBlog: Blog
 
 headerPhrase: "Werden Sie Sponsor Sei ein Mitglied Sei mutig"
 
