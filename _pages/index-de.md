@@ -21,7 +21,7 @@ workshopsTitle: "Werkstatt"
 workshopsPhrase1: "Entgegen der landläufigen Meinung ist Lorem Ipsum nicht einfach zufälliger Text. Es hat seine Wurzeln in einem Stück klassischer lateinischer Literatur aus dem Jahr 45 v. Chr. und ist damit über 2000 Jahre alt. Richard McClintock, Lateinprofessor am Hampden-Sydney College in Virginia, schlug eines der obskureren lateinischen Wörter, consectetur, in einer Lorem-Ipsum-Passage nach, und als er die Zitate des Wortes in der klassischen Literatur durchging, entdeckte er die unbestreitbare Quelle."
 workshopsPhrase2: "Lorem Ipsum ist einfach Blindtext der Druck- und Satzindustrie. Lorem Ipsum ist seit den 1500er Jahren der Standard-Dummy-Text der Branche, als ein unbekannter Drucker eine Reihe von Typen nahm und daraus ein Musterbuch für Typen erstellte."
 
-ctaMember: "Mitglied geworden"
+ctaMember: "Mitglied werden"
 ctaMemberButton: "Zusammenarbeiten"
 
 ourSpaceTitle: "Unser Raum"
