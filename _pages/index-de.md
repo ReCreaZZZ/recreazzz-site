@@ -32,7 +32,8 @@ ourSpaceSubPhrase2: "Arbeitsplätze in der offenen Werkstatt für Elektronik Arb
 ourSpaceSubTitle3: "Handwerk"
 ourSpaceSubPhrase3: "Es stehen diverse Maschinen für Holz und Metallbearbeitung zur Verfügung."
 
-carrouselTitle: "Machen wir es zusammen"
+carrouselTitle: "Do it Together 
+ist das neue DIY "
 carrouselButton: "Agenda"
 
 callEmail: "Bei Fragen mailen Sie uns bitte:"
