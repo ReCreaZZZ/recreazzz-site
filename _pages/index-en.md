@@ -7,13 +7,13 @@ menuCollaborate: Collaborate
 menuAgenda: Agenda
 menuBlog: Blog
 
-headerPhrase: "A space, an community, an opportunity to recreate, to repair, together!"
+headerPhrase: "A space, a community, an opportunity to recreate & to repair together!"
 
 ourManifestTitle: "Our Manifest"
 ourManifestPhrase1: "Makers bring broken things back into the cycle. This is how we reduce the ecological footprint of things. Appreciation & promotion of awareness for a more sufficient lifestyle is important to us."
 ourManifestPhrase2: "The ReCreaZZZ association runs an open workshop for repairs and upcycling. Here you can repair or recycle your equipment and clothes with the support of specialists."
 
-ctaSponsor: "Became a sponsor"
+ctaSponsor: "Become a sponsor"
 ctaSponsorButton: "Collaborate"
 
 workshopsTitle: "Workshops"
