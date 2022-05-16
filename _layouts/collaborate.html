@@ -31,7 +31,7 @@
         </div>
     </header>
     <!-- Questions -->
-    <section class="pt-105 pb-90 bg-light content_19">
+    <!-- <section class="pt-105 pb-90 bg-light content_19">
         <div class="container px-xl-0">
             <div class="row justify-content-center">
                 <div class="col-xl-10 col-lg-11">
@@ -105,17 +105,17 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
     <!-- Pricing table -->
     <section class="pt-105 pb-100 bg-light text-center pricing_table_5">
         <div class="container px-xl-0">
             <div class="row justify-content-center">
                 <div class="col-xl-6 col-lg-8 col-md-10">
                     <h2 class="small" data-aos="fade-down" data-aos-delay="0">
-                        Membership
+                        {{page.membershipTitle}}
                     </h2>
                     <div class="mt-20 mb-65 color-heading text-adaptive" data-aos="fade-down" data-aos-delay="250">
-                        Start with 14-day free trial. No credit card needed. Cancel at anytime.
+                        {{page.membershipText}}
                     </div>
                 </div>
             </div>
@@ -124,7 +124,7 @@
                     data-aos-delay="0">
                     <div class="mw-370 w-full mx-auto noradius pt-35 pb-40 block">
                         <div class="mb-35 f-14 semibold text-uppercase sp-20 title">
-                            Start
+                            {{page.membership1}}
                         </div>
                         <div class="d-flex justify-content-center align-items-center">
                             <div class="f-58 relative flex-shrink-0 price">
@@ -132,7 +132,7 @@
                                     Fr
                                 </span>
                                 <b>
-                                    19
+                                    {{page.member1Cost}}
                                 </b>
                             </div>
                             <div class="ml-15 text-left">
@@ -140,7 +140,7 @@
                             </div>
                         </div>
                         <div class="mt-25 mx-auto mw-260 color-heading text-adaptive">
-                            All the features you need to keep your work, hobby or life safe.
+                            {{page.member1Text}}
                         </div>
                     </div>
                 </div>
@@ -148,7 +148,7 @@
                     data-aos-delay="250">
                     <div class="mw-370 w-full mx-auto radius10 pt-35 pb-40 block bg-dark color-white">
                         <div class="mb-35 f-14 semibold text-uppercase sp-20 title">
-                            Advanced
+                            {{page.membership2}}
                         </div>
                         <div class="d-flex justify-content-center align-items-center">
                             <div class="f-58 relative flex-shrink-0 price">
@@ -156,7 +156,7 @@
                                     Fr
                                 </span>
                                 <b>
-                                    49
+                                    {{page.member2Cost}}
                                 </b>
                             </div>
                             <div class="ml-15 text-left">
@@ -164,7 +164,7 @@
                             </div>
                         </div>
                         <div class="mt-25 mx-auto mw-260 text-adaptive">
-                            All the features you need to keep your work, hobby or life safe.
+                            {{page.member2Text}}
                         </div>
                     </div>
                 </div>
@@ -172,7 +172,7 @@
                     data-aos-delay="500">
                     <div class="mw-370 w-full mx-auto radius10 pt-35 pb-40 block">
                         <div class="mb-35 f-14 semibold text-uppercase sp-20 title">
-                            Enterprise
+                            {{page.membership3}}
                         </div>
                         <div class="d-flex justify-content-center align-items-center">
                             <div class="f-58 relative flex-shrink-0 price">
@@ -180,7 +180,7 @@
                                     Fr
                                 </span>
                                 <b>
-                                    99
+                                    {{page.member3Cost}}
                                 </b>
                             </div>
                             <div class="ml-15 text-left">
@@ -188,7 +188,7 @@
                             </div>
                         </div>
                         <div class="mt-25 mx-auto mw-260 color-heading text-adaptive">
-                            All the features you need to keep your work, hobby or life safe.
+                            {{page.member3Text}}
                         </div>
                     </div>
                 </div>
