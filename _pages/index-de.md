@@ -26,7 +26,7 @@ ctaMemberButton: "Zusammenarbeiten"
 
 ourSpaceTitle: "Unser Raum"
 ourSpaceSubTitle1: "Textil"
-ourSpaceSubPhrase1: "Eine Nähwerkstatt mit industrieller Overlock und großem Materialpool."
+ourSpaceSubPhrase1: "Eine Nähwerkstatt mit diversen Haushaltsmaschinen, industrieller Overlock und großem Materialpool."
 ourSpaceSubTitle2: "Elektro"
 ourSpaceSubPhrase2: "Arbeitsplätze in der offenen Werkstatt für Elektronik Arbeiten und Reparaturen."
 ourSpaceSubTitle3: "Handwerk"
