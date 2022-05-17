@@ -26,11 +26,11 @@ ctaMemberButton: "Zusammenarbeiten"
 
 ourSpaceTitle: "Unser Raum"
 ourSpaceSubTitle1: "Textil"
-ourSpaceSubPhrase1: "Eine Nähwerkstatt mit diversen Haushaltsmaschinen, industrieller Overlock und großem Materialpool."
+ourSpaceSubPhrase1: "Eine Nähwerkstatt mit diversen Haushaltsmaschinen, industrieller Overlock, zwei Ledermaschinen und großem Materialpool."
 ourSpaceSubTitle2: "Elektro"
 ourSpaceSubPhrase2: "Arbeitsplätze in der offenen Werkstatt für Elektronik Arbeiten und Reparaturen."
 ourSpaceSubTitle3: "Handwerk"
-ourSpaceSubPhrase3: "Es stehen diverse Maschinen für Holz und Metallbearbeitung zur Verfügung."
+ourSpaceSubPhrase3: "Es stehen diverse Maschinen für Holz und Metallbearbeitung zur Verfügung. Wenn ihr den Bereich Handwerk nutzen möchtet, meldet euch bitte für eine Maschinen Einführung an."
 
 carrouselTitle: "Do it Together 
 ist das neue DIY "
