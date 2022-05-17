@@ -8,8 +8,30 @@
         </i>
     </a>
     <div class="px-40 pt-60 pb-60 text-center inner">
+        {% if page.url contains '-en' %}
         <div>
+            <a href="index-en.html" class="f-heading f-22 link color-main mb-20">
+                {{page.menuHome}}
+            </a>
+        </div>
+        <div>
+            <a href="collaborate-en.html" class="f-heading f-22 link color-main mb-20">
+                {{page.menuCollaborate}}
+            </a>
+        </div>
+        <div>
+            <a href="agenda-en.html" class="f-heading f-22 link color-main mb-20">
+                {{page.menuAgenda}}
+            </a>
+        </div>
+        <!-- <div>
             <a href="#" class="f-heading f-22 link color-main mb-20">
+                {{page.menuBlog}}
+            </a>
+        </div> -->
+        {% else %}
+        <div>
+            <a href="index.html" class="f-heading f-22 link color-main mb-20">
                 {{page.menuHome}}
             </a>
         </div>
@@ -23,11 +45,12 @@
                 {{page.menuAgenda}}
             </a>
         </div>
-        <div>
+        <!-- <div>
             <a href="#" class="f-heading f-22 link color-main mb-20">
                 {{page.menuBlog}}
             </a>
-        </div>
+        </div> -->
+        {% endif %}
         <div class="mt-40">
             <a href="{{site.baseurl}}/{{page.layout}}" class="f-18 link color-main op-7 text-uppercase sp-20 mb-20">
                 DE
