@@ -23,11 +23,11 @@ member3Text: "You want to start only for 3 month. You can use the space anytime 
 
 ourSpaceTitle: "Our Space"
 ourSpaceSubTitle1: "Textile"
-ourSpaceSubPhrase1: "A sewing workshop with an industrial overlock and a large pool of materials."
+ourSpaceSubPhrase1: "A sewing workshop with an industrial overlock, two leather mashines, several old Berninas and a large pool of materials."
 ourSpaceSubTitle2: "Electronics"
 ourSpaceSubPhrase2: "Workplaces in the open workshop for electronics work and repairs."
 ourSpaceSubTitle3: "Hardwork"
-ourSpaceSubPhrase3: "Various machines for wood and metal processing are available."
+ourSpaceSubPhrase3: "Various machines for wood and metal processing are available. To use the mashines contact us for an introduction"
 
 callEmail: "For any questions please send an email:"
 
