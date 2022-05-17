@@ -8,7 +8,7 @@ menuCollaborate: Zusammenarbeiten
 menuAgenda: Agenda
 menuBlog: Blog
 
-headerPhrase: "Ein Raum, eine Gemeinschaft, eine Gelegenheit, gemeinsam neu zu kreieren, zu reparieren!"
+headerPhrase: "Ein Raum, eine Gemeinschaft, eine Gelegenheit gemeinsam neu zu kreieren und zu reparieren!"
 
 ourManifestTitle: "Unser Manifest"
 ourManifestPhrase1: "Macher:innen holen kaputtes wieder in den Kreislauf zurück. So verringern wir den ökologischen Fussabdruck der Dinge. Wertschätzung & Förderung des Bewusstseins für einen suffizienteren Lebensstil liegt uns am Herzen."
