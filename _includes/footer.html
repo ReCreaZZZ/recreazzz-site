@@ -1,25 +1,47 @@
 <div class="container px-xl-0">
     <div class="row justify-content-between align-items-center lh-40 links">
         <div class="mb-10 mb-lg-0 col-lg-4 col-sm-6 text-sm-left">
-            <a href="#" class="link color-white mw-200">
+            {% if page.url contains '-en' %}
+            <a href="index-en.html" class="link color-white mw-200">
                 <img src="i/textnegative.png" alt="Logo" class="img-fluid mw-200" data-aos="fade-down"
                     data-aos-delay="0">
             </a>
+            {% else %}
+            <a href="index.html" class="link color-white mw-200">
+                <img src="i/textnegative.png" alt="Logo" class="img-fluid mw-200" data-aos="fade-down"
+                    data-aos-delay="0">
+            </a>
+            {% endif %}
         </div>
-        <div class="mt-10 col-lg-4 col-md-8 col-sm-8 text-sm-left" data-aos="fade-down" data-aos-delay="0">
+        <div class="mt-10 col-lg-6 col-md-8 col-sm-8 text-sm-left" data-aos="fade-down" data-aos-delay="0">
             <div class="text-adaptive color-gray">
                 _ZW 1.Stk. Neue Hard 12 8005 Zurich | +76 604 45 65 | info(at)recreazzz.repair
             </div>
         </div>
-        <div class="col-lg-4 col-sm-2 text-lg-right" data-aos="fade-down" data-aos-delay="250">
+        <div class="col-lg-2 col-sm-2 text-lg-right" data-aos="fade-down" data-aos-delay="250">
             <a href="#" class="mx-15 link color-white">
                 <i class="fab fa-facebook-square">
                 </i>
             </a>
-            <a href="#" class="ml-15 link color-white">
+            <a href="https://www.instagram.com/recreazzz.repair/" class="ml-15 link color-white">
                 <i class="fab fa-instagram">
                 </i>
             </a>
+        </div>
+    </div>
+    <div class="row justify-content-between align-items-center lh-40 links">
+        <div class="mb-10 mb-lg-0 col-lg-4 col-sm-6 text-sm-left">
+        </div>
+        <div class="mt-10 col-lg-4 col-md-8 col-sm-8 text-sm-left" data-aos="fade-down" data-aos-delay="0">
+            <div class="text-adaptive color-gray f-12">
+                Opening Hours 
+                <br/>
+                Wednesday 2pm - 9pm
+                <br/>
+                Friday 2pm - 7pm
+            </div>
+        </div>
+        <div class="col-lg-4 col-sm-2 text-lg-right" data-aos="fade-down" data-aos-delay="250">
         </div>
     </div>
 </div>
