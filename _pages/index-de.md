@@ -36,6 +36,6 @@ carrouselTitle: "Do it Together
 ist das neue DIY "
 carrouselButton: "Agenda"
 
-callEmail: "Bei Fragen mailen Sie uns bitte:"
+callEmail: "Du hast eine Frage, möchtest mitmachen oder einen Workshop anbieten?"
 
 ---
