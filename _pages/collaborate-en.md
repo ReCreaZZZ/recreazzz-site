@@ -10,7 +10,7 @@ menuBlog: Blog
 headerPhrase: "Become a sponsor * Be a member * Just drop by"
 
 membershipTitle: "Membership"
-membershipText: "Just drop by and start with 14-day free trial. There are different ways to join as membership. Membershop is renewed on a jearly base."
+membershipText: "Just drop-in and get started. You can decide how much you'd like to donate then. The textile area has defined prices. If you'd  like to come here regularly or more often or simply support the reCreaZZZZ, you can become a member. There are different ways to join. Membership is renewed on a yearly base and can be ended anytime."
 membership1: "Z"
 member1Cost: "30"
 member1Text: "Use the open space during the opening hours"
