@@ -7,12 +7,12 @@ menuCollaborate: Collaborate
 menuAgenda: Agenda
 menuBlog: Blog
 
-headerPhrase: "Together we can change the world"
+headerPhrase: "The agenda is still under construction. You are cordially invited to visit us at our POP ARTY (Post-Opening-Party) on May 25"
 
 openDaysTitle: "Open Days"
 day1: "Wednesday 14h - 21h"
 day2: "Friday 14h - 19h"
 
-callEmail: "For any questions please mail us:"
+callEmail: "Please contact us with any ideas for workshops or events:"
 
 ---
