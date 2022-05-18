@@ -4,7 +4,7 @@ permalink: '/'
 lang: de
 
 menuHome: Home
-menuCollaborate: Zusammenarbeiten
+menuCollaborate: mitmachen
 menuAgenda: Agenda
 menuBlog: Blog
 
@@ -15,14 +15,14 @@ ourManifestPhrase1: "Macher:innen holen kaputtes wieder in den Kreislauf zurück
 ourManifestPhrase2: ""
 
 ctaSponsor: "Sponsor werden"
-ctaSponsorButton: "Zusammenarbeiten"
+ctaSponsorButton: "mitmachen"
 
 workshopsTitle: "Werkstatt"
 workshopsPhrase1: "Der Verein ReCreaZZZ betreibt eine offene Werkstatt für Reparaturen und Upcycling. Hier kannst Du mit Unterstützung von Fachpersonen deine Geräte und Kleider reparieren oder wiederverwerten."
 workshopsPhrase2: "Wir nehmen auch Reperaturen und Upcycling Projekte in Auftrag, besonders gern gesehen sind jedoch die Besucher, die selbst loslegen- oder lernen wollen wie das geht. Zu den Öffnungszeiten stehen wir euch mit Tipps und Tricks zur Seite."
 
 ctaMember: "Mitglied werden"
-ctaMemberButton: "Zusammenarbeiten"
+ctaMemberButton: "mitmachen"
 
 ourSpaceTitle: "Unser Raum"
 ourSpaceSubTitle1: "Textil"
