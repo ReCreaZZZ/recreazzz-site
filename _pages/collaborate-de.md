@@ -18,7 +18,8 @@ ourSpaceSubTitle3: "Handwerk"
 ourSpaceSubPhrase3: "Es stehen diverse Maschinen für Holz und Metallbearbeitung zur Verfügung"
 
 membershipTitle: "Mitgliedschaft"
-membershipText: "Komm einfach mal vorbei: wir bieten eine 14-tägige Testversion. Es gibt verschiedene Möglichkeiten Mitglied zu werden, eine Mitgleidschaft wird jährlich erneuert."
+membershipText: "Komm einfach mal vorbei: während der Öffnungszeiten kannst Du unsere Reparatur und Upcylcing Werkstatt nutzen. 
+Ein Nutzungsbeitrag ist im Werkbereich auf Spendenbasis, im Textilbereich haben wir Preise definiert. Wenn es Dir bei uns gefällt oder du das ReCreaZZZ einfach unterstützen möchtest, kannst du Mitglied werden. Es gibt verschiedene Möglichkeiten, von Z bis Atelierplatz oder Projektmitgliedschaft (Anfragen für Kooperationen gerne per Mail!). eine Mitgleidschaft wird jährlich erneuert."
 membership1: "Z"
 member1Cost: "30"
 member1Text: "Du wirst Vereinsmitglied und Du kannst während der Öffnungszeiten Werkstatt und Nähbereich nutzen"
