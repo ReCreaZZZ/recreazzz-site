@@ -7,7 +7,7 @@ menuCollaborate: Zusammenarbeiten
 menuAgenda: Agenda
 menuBlog: Blog
 
-headerPhrase: "Die Agenda findet sich noch im Aufbau. Am 25.5. laden wir euch herzlich zur POP ARTY (Post- Opening- Party) ein"
+headerPhrase: "Die Agenda findet sich noch im Aufbau."
 
 
 openDaysTitle: "Öffnungszeiten"
