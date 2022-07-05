@@ -11,9 +11,10 @@ headerPhrase: "Die Agenda findet sich noch im Aufbau."
 
 
 openDaysTitle: "Öffnungszeiten"
-day1: "Mittwoch 14h - 21h"
-day2: "Freitag 14h - 19h"
+allgemein: "Sommerpause bis September"
+day1: "Reparaturanfragen per Mail"
+day2: "info(a)recreazzz.repair"
 
-callEmail: "Gerne nehmen wir Ideen für Workshop- Angebote entgegen:"
+callEmail: "meldet euch mit Ideen für Workshop- Angebote oder wenn ihr etwas buchen möchtet"
 
 ---
