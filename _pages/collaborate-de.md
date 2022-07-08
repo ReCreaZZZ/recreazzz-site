@@ -7,7 +7,7 @@ menuCollaborate: Zusammenarbeiten
 menuAgenda: Agenda
 menuBlog: Blog
 
-headerPhrase: "Werden Sie Sponsor * Sei ein Mitglied * Komm einfach mal vorbei"
+headerPhrase: "* SOMMERPAUSE BIS SEPTEMBER * WIR SIND ABER DA * REPERATURANFRAGEN & TERMINE PER MAIL * Mitglieder können die Werkstatt weiternutzen *"
 
 ourSpaceTitle: "Unser Raum"
 ourSpaceSubTitle1: "Textil"
