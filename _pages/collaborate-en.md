@@ -7,7 +7,7 @@ menuCollaborate: Collaborate
 menuAgenda: Agenda
 menuBlog: Blog
 
-headerPhrase: "Become a sponsor * Be a member * Just drop by"
+headerPhrase: "* SUMERBREAK TIL SEPTEMBER * WE ARE HERE * RAPAIRDATES PER MAIL * OPEN FOR MEMBERS ALL SUMMER"
 
 membershipTitle: "Membership"
 membershipText: "Just drop-in and get started. You can decide how much you'd like to donate then. The textile area has defined prices. If you'd  like to come here regularly or more often or simply support the reCreaZZZZ, you can become a member. There are different ways to join. Membership is renewed on a yearly base and can be ended anytime."
