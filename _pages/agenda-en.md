@@ -7,7 +7,7 @@ menuCollaborate: Collaborate
 menuAgenda: Agenda
 menuBlog: Blog
 
-headerPhrase: "The agenda is still under construction. Now we are doing a summerbreak till September please ignore the following table, we can't take it out ;)"
+headerPhrase: "Now we are doing a summerbreak till September, you can find our summer workshops on www.makethings.ch and  please ignore the following table, we somehow can't take it out ;)"
 
 openDaysTitle: "Open Days"
 day1: "Wednesday 14h - 21h"
